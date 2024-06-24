@@ -1,0 +1,12 @@
+repo-maintenance/
+├── README.md
+├── scripts/
+│   ├── update_dependencies.sh
+│   ├── run_tests.sh
+│   └── sync_forks.sh
+├── .github/
+│   ├── workflows/
+│   │   ├── update_dependencies.yml
+│   │   ├── run_tests.yml
+│   │   └── sync_forks.yml
+└── .gitignore
